@@ -2,4 +2,4 @@ In the spring semester of 2020, I was signed up to attend a study abroad in Cast
 
 **My roommate and I at the Trevi Fountain in Rome**
 
-[My roommates and I at the Trevi Fountain in Rome](IMG_2256.jpg)
+![My roommates and I at the Trevi Fountain in Rome](IMG_2256.jpg)
