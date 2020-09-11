@@ -1,4 +1,7 @@
-**Real World Application of Data and Vizualizers**
+---
+layout: post
+title: **Real World Application of Data and Vizualizers**
+---
 
 After reading "What is Data?" and analyzing the three visulization examples, I have been noticing how most of the websites I visit utilize these charts to showcase data that easily translates the information to the user. This most prominent example of this in my life is the new [Texas A&M COVID-19 Dashboard](https://www.tamu.edu/coronavirus/dashboard/index.html). The website uses a relatively simple bar graph and donut chart to showcase "Daily new cases self-reported of COVID-19 among Texas A&M University Faculty, Staff and Students" and "Overall COVID-19 Testing Positivity at Texas A&M University," respectively. 
 
