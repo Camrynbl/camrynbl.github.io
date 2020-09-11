@@ -7,7 +7,7 @@ With the extensive explanation of files, folders, and plain text garnered from t
 
 My most common use of the G Suite is working with articles for the newspaper's daily web production. To find the article that were published September 11, the file path looks like this: My Drive / SLOT / *Fall2020 / 09/11 / Good to post /. Only when you reach the find folder "Good to post" are you able to access the seven articles that are transformed into The Battalion's September 11 content. 
 
-I will note that the URL doesn't exactly match the file path the (SLOT  looks like this: https://drive.google.com/drive/u/2/folders/0Bxh09SWHFLIjV29rVEZlVkVYb2s). While GitHub's URL's a more easily understandable by the users, the Google Suite uses an identification folder and I can assume this if for the benefit of the computer rather than the individual user. However, Google compensates for this issue by displaying its own file path above the organized folders and files. 
+I will note that the URL doesn't exactly match the file path the (SLOT, which is a term newspapers used to use when reporters would physcially place written stories into a "slot," looks like this: https://drive.google.com/drive/u/2/folders/0Bxh09SWHFLIjV29rVEZlVkVYb2s). While GitHub's URL's a more easily understandable by the users, the Google Suite uses an identification folder and I can assume this if for the benefit of the computer rather than the individual user. However, Google compensates for this issue by displaying its own file path above the organized folders and files. 
 
 [The Battalion Google Drive](https://github.com/Camrynbl/camrynbl.github.io/blob/master/_posts/2020-09-11.png)
 
