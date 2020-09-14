@@ -1,5 +1,5 @@
 ---
-title: Blog Post
+title: Introduction
 layout: post
 ---
 Howdy! My name is Camryn Lang and I'm from Boerne, Texas. I am currently a senior English major with a communication minor. I'm one of three Aggies in my family and the last to make it through as I go into my final semester. I love to listen to a variety of music, but if I had to pick, Saint Motel is my favorite band. 
