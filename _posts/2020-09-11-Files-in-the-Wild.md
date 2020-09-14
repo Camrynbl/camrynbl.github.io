@@ -10,7 +10,7 @@ My most common use of the G Suite is working with articles for the newspaper's d
 
 I will note that the URL doesn't exactly match the file path the (SLOT, which is a term newspapers used to use when reporters would physically place written stories into a "slot," looks like this: https://drive.google.com/drive/u/2/folders/0Bxh09SWHFLIjV29rVEZlVkVYb2s). While GitHub's URL's a more easily understandable by the users, the Google Suite uses an identification folder and I can assume this if for the benefit of the computer rather than the individual user. However, Google compensates for this issue by displaying its own file path above the organized folders and files. 
 
-[The Battalion Google Drive](https://github.com/Camrynbl/camrynbl.github.io/blob/master/_posts/2020-09-11.png)
+![The Battalion Google Drive](https://github.com/Camrynbl/camrynbl.github.io/blob/master/_posts/2020-09-11.png)
 
 This helps the users keep track of their own location with the web of files and remember where their documents are located. The use of the idea number also allows the user to easily move documents from folder to folder because they are not tied to a particular file path.  
 
