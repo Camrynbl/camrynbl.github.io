@@ -11,7 +11,7 @@ Week four's deep dive into formatting in Markup and HTML, and thus looking more 
 
 I chose to use the [Crime](https://www.britannica.com/topic/crime-law) webpage because it has an extensive amount of information that is organized into sections using multiple levels of headings and has a navigation section to allow users to move through the long article with ease. From the navigation bar, an individual can see thirty-six sections. Most of these sections only have up to the second level of heading organization with the exception of "The court system" section. In the body section of the HTML, "the court system" is listed as a second heading, indicating to the computer that it should be displayed as a second title beneath "Crime."
 
-(INSERT IMAGE OF NAV BAR)
+![Navigation Bar on Encyclopedia Britannica](2020-09-18 (9).png)
 
 The encyclopedia page also uses span elements to indicate important information or link to other supplementary resources that a user may be interested in viewing. In the introduction of the article, the word crime is bolded to indicate that a definition is being shown. Emphasizing key words with bolding indicates to readers that the information is important to know as they read through the rest of the article. Later, the authors will also use a special feature of the website and showcase a dotted line beneath words that users can click on to show details about the word as well as the definition without having to leave the article. 
 
