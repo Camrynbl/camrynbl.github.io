@@ -2,6 +2,9 @@
 title: What is Data?
 layout: post
 ---
+
+# What is Data Activity #
+
 **Team Member Card**
 
 The Card Picker seems to be utilizing dictionary compound data, in which several keys are linked a specific scalar data. Therefore, the team members name serving as the scalar data is linked to four keys: job title, phone number, location, job description, and a photo. I think the Card Picker visualization is closest to the tree diagram visualizer, because after selecting one name, an new path stemming only from that name is shown on the screen. Since the list of people in the team is not very long, I believe this method of visulizing the data works well because the user is able to easily identify the name they are looking for and select it to gain more information on that specific person. However, if the team was much larger, say twenty people, this method would be less effective as the names would become more difficult to find. In that case, using the Circle Packing visulizer might be more beneficial as it groups like items together by more than just name and position in the intital categorization. 
