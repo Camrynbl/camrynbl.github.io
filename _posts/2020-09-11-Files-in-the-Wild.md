@@ -2,6 +2,8 @@
 title: Files in the Wild
 layout: post
 ---
+# Files in the Wild #
+
 **Files and Folders**
 
 With the extensive explanation of files, folders, and plain text garnered from this week's reading, I was able to better understand how my own computer stores the data I give it and how the same process works for online data shared through programs like Google Drive. As a senior English major and communication minor, I've had plenty of time to build an expansive web of folders and files on my Texas A&M gmail account. However, as the managing editor at the university's student newspaper, The Battalion, I've joined an even larger system of data. For over ten years, every member of The Battalion staff has utilized a G Suite that allows us to compile every article, Power Point, spreadsheet, and meeting note pages that have been created. I utilize this network of folders and files every day for work. At any given time, up to fifty people could be on the G Suite to create files and top edit, so learning about the network of computer configurations behind the online system, made me really appreciate the innovation of programming.
