@@ -1,6 +1,8 @@
 ---
 title: What is a File?
 layout: post
+categories:
+- hands on activites
 ---
 
 # What is a file? #
