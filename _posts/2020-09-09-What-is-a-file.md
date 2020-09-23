@@ -2,7 +2,7 @@
 title: What is a File?
 layout: post
 categories:
-- hands on activites
+- hands on activities
 ---
 
 # What is a file? #
