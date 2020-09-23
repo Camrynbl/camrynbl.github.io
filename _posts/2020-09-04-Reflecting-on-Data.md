@@ -1,6 +1,8 @@
 ---
 title: Reflecting on Data
 layout: post
+categories:
+- reflections
 ---
 
 # Reflecting on Data #
