@@ -1,6 +1,8 @@
 ---
 title: What is Markup?
 layout: post
+categories:
+- reflections
 ---
 
 # Reflection of Week 4: What is Markup? #
