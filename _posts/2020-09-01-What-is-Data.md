@@ -1,6 +1,8 @@
 ---
 title: What is Data?
 layout: post
+categories:
+- hands on activities
 ---
 
 # What is Data Activity #
