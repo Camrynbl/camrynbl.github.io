@@ -1,6 +1,8 @@
 ---
 title: Files in the Wild
 layout: post
+categories:
+- reflections
 ---
 # Files in the Wild #
 
