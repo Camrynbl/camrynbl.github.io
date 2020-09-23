@@ -1,6 +1,9 @@
 ---
 title: Introduction
 layout: post
+categories:
+- about
+- welcome
 ---
 
 # Introduction #
