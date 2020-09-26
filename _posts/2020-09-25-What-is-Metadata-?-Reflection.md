@@ -1,6 +1,6 @@
 ---
 layout: blog post
-title: what is metadata
+title: What is Metadata? Reflection
 categories:
 - reflections
 ---
