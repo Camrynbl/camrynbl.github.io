@@ -1,12 +1,12 @@
 ---
 layout: blog post
-title: What is Metadata? Reflection
+title: style and content activity
 categories:
 - hands on activities
 ---
 
 
-## A Severe Lacking of Style ##
+## A Severe Lack of Style ##
 
 Unfortunately, the lessons of this week have not seemed to set in with me, because I have been trying *for hours* to get my navigation bar to look different in anyway, let alone move it to the left side of my blog page like I had originally planned. It is now four a.m. and I've officially given up on making my blog look stylish. I guess GitHub just doesn't want my blog to look nice. What a shame. 
 
