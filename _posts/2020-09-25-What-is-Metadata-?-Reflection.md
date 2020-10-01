@@ -5,7 +5,7 @@ categories:
 - reflections
 ---
 
-# What is Metadata? #
+## What is Metadata? ##
 
 
 This week’s topic was, for the first time since I began this class, not completely unfamiliar to me. Working at Texas A&M’s student newspaper, my team and I often utilize metadata to organize our photos so that we can recall them at any point of time, even if they were taken five years ago. While we don’t often rely on old photos, being able to recall old photos of important university staff members or memorable events is integral to describing certain stories. However, my most recent encounter with metadata was not so positive, as it actually caused a significant problem for one of our recently published issues. 
