@@ -5,11 +5,11 @@ categories:
 - reflections
 ---
 
-# Reflection of Week 4: What is Markup? #
+## Reflection of Week 4: What is Markup?
 
 Week four's deep dive into formatting in Markup and HTML, and thus looking more deeply at the headings, lists, code, rule, etc., forced me to look at the websites I use more analytically. I found that the online articles on Encyclopedia Britannica are great examples of utilizing markup and HTML to create both an organized and understandable webpage of information. 
 
-## Real World Example ##
+### Real World Example 
 
 I chose to use the [Crime](https://www.britannica.com/topic/crime-law) webpage because it has an extensive amount of information that is organized into sections using multiple levels of headings and has a navigation section to allow users to move through the long article with ease. From the navigation bar, an individual can see thirty-six sections. Most of these sections only have up to the second level of heading organization with the exception of "The court system" section. In the body section of the HTML, "the court system" is listed as a second heading, indicating to the computer that it should be displayed as a second title beneath "Crime."
 
