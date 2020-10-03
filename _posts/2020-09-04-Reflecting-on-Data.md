@@ -5,7 +5,7 @@ categories:
 - reflections
 ---
 
-# Reflecting on Data #
+## Reflecting on Data
 
 **Real World Application of Data and Vizualizers**
 
