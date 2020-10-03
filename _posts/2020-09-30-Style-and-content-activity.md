@@ -1,6 +1,6 @@
 ---
 layout: blog post
-title: style and content activity
+title: Style and Content Activity
 categories:
 - hands on activities
 ---
