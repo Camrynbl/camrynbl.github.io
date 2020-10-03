@@ -5,7 +5,7 @@ categories:
 - hands on activities
 ---
 
-# What is Data Activity #
+## What is Data Activity
 
 **Team Member Card**
 
