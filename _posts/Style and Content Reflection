@@ -1,0 +1,14 @@
+---
+layout: blog
+title: Style and Content Reflection
+categories:
+-reflections
+---
+
+## The Importance of Style
+
+From this week’s lesson, I have been able to better understand the massive efforts that go into even the simplest of design elements on a website. While it is difficult to find a real world example of this because External CSS files aren't necessarily easy to find, I did see how these files aided the themes of my classmates' blogs. As I sifted through their blogs last week while I was doing research for my Semester Recap Post, I found that the special themes they chose gave the display of their blogs much more visual interest. I do love Jykell's "primer" layout for its simplicity and ease of use, but I can see it does not portray the same emphasis. I particularly enjoyed the "Cayman" and "Hacker" themes because they provided so much color and structure to my classmate’s content. When comparing these themes to the plain HTML text, it is obvious why Cascading Style Sheets was developed. The blocky text against the white background is useful for displaying information directly but does nothing to keep a user interested in the content. 
+
+Through these examples of style, I can see that CSS provides a much needed bridge between the website coder and the user. The simple text of HTML can look outdated and boring to a user and if the goal is to keep the individual engaged, plain HTML just will not cut it. I found that External CSS Files are much more effective than in-line stylesheets because they require less repetition of code and provide a little more organization within the GitHub files. With so much code and edits being made, this is a huge help to me as I often get lost in the jumble of letters and numbers that make up Markdown. I’m not sure why anyone would want to use the in-line stylesheet method since it is time consuming and has so many limitations. 
+
+I must admit, I am still struggling quite a bit with CSS. It is difficult to understand where particular code is supposed to be located for it to effect elements on your webpage. Particularly when it comes to moving the navigation bar, I struggled to find the correct classes to move my titles and categories to the left side of my page. I think I may need to spend more time on defining the specific Tags that are associated with different elements on my pages so that I can narrow down the location of the code I need to change or add onto. The common theme among my challenges with Markdown seem to center around *where* something needs to be implemented rather than *what* needs to be used. I still feel very unfamiliar with the intricacies of Markdown and it will mostly likely take a few weeks for me to fully grasp it. I hope that with this week to catch up, I’ll be able to find a way to adjust my blog’s visual display using CSS. 
