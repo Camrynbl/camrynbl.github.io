@@ -5,7 +5,7 @@ categories:
 - hands on activities
 ---
 
-# What is a file? #
+## What is a file?
 
 For this weeks hands-on activity, I created an About Me page that had a page about my recent [study abroad](/_posts/About-Me/Italy/2020-09-09-My-Short-Trip-to-Italy.md) to Italy. At the suggestion of including travel photos, I thought that it would be wonderful to take a trip down memory lane and create a place to hold all of my photos. 
 
