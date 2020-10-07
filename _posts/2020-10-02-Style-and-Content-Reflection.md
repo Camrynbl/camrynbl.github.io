@@ -1,8 +1,8 @@
 ---
-layout: blog
 title: Style and Content Reflection
+layout: post
 categories:
--reflections
+- reflections
 ---
 
 ## The Importance of Style
