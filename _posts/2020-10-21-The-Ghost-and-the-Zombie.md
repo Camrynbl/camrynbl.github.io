@@ -7,7 +7,7 @@ categories:
 
 ## A Tracery Grammar Short Story
 
-### The Ghost and the Zombie
+### [The Ghost and the Zombie](tracery.html)
 
 A shy spector roamed through calm suburban streets as dusk settled ovet the roofs on Halloween. Children were putting on costumes and neighbors were preparing their bowls of candy for the excited #costumes# and #costumes# that would soon arrive. Ghost was hoping to be much scarier than last year, but was worried their shyness may get in the way once again. Ghost loved coming into the human world to be spooky by walking through walls and appearing suddenly in the shadows. However, Ghost was feeling scared themselves, for what if they are not spooky enough?
 
