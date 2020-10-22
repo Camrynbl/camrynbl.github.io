@@ -47,4 +47,4 @@ Ghost and Zombie laughed as the terrified boy ran into his parents arms.
 
 With Halloween coming to an end, Ghost and Zombie left the nieghborhood awaiting the next time the can haunt the streets together again.
 
-The End{.text-center}
+The End{: .text-center}
