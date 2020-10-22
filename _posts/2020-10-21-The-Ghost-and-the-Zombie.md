@@ -1,5 +1,5 @@
 ---
-layout: tracery
+layout: post
 title: The Ghost and the Zombie
 categories:
 - hands on activities
@@ -9,7 +9,7 @@ categories:
 
 ### The Ghost and the Zombie
 
-[The Ghost and the Zombie](camrynbl.github.io/Ghost-and-Zombie-Script.html)
+[The Ghost and the Zombie](https://github.com/Camrynbl/camrynbl.github.io/blob/Activity-8-Tracery-Trials/Ghost-and-Zombie-Script.html)
 
 A shy spector roamed through calm suburban streets as dusk settled ovet the roofs on Halloween. Children were putting on costumes and neighbors were preparing their bowls of candy for the excited #costumes# and #costumes# that would soon arrive. Ghost was hoping to be much scarier than last year, but was worried their shyness may get in the way once again. Ghost loved coming into the human world to be spooky by walking through walls and appearing suddenly in the shadows. However, Ghost was feeling scared themselves, for what if they are not spooky enough?
 
