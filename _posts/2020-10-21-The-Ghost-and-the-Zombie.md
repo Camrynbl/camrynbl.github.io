@@ -33,14 +33,18 @@ This year, #kidadjective# was dressed as a Royal Knight, complete with a (plasti
 
 "Even when you catch him, Tommy is too brave to spook!" Ghost replied.
 
-The two thought about what more they could do. Tommy was leaving one home and looked to be planning to cross the street. This part of the neighborhood was dimly lit, so Ghost thought it may be a good place to appear. Yet, Ghost still had no idea what to actully do once they were there. 
+The two thought about what more they could do. Tommy was leaving one home and looked to be planning to cross the street. This part of the neighborhood was dimly lit, so Ghost thought it may be a good place to appear. Yet, Ghost still had no idea what to actully do once they were there. Ghost drifted over to the young boy with low spirits. 
 
+#adjective# Tommy confidently walked off the edge of the sidewalk and into the dark street. Ghost floated around around him, but Tommy only shivered and moved away from the ghostly figure. Ghost saw that the boy became uneasy, but not scared. However, #adjective# Tommy moved towards Zombie, who was still making their way down the sidewalk. Ghost suddenly had an idea.
 
+Tommy walked down the dark road and away from the cold breeze of Ghost prescence. Ghost used this to direct #adjective# Tommy to Zombie while uttering quite "boos." The young boy was clearly uncomfortable and rubbed his arms to keep away the shivers. Distracted, Tommy was suddenly face-to-face with Zombie. See the scarred face, torn clothes, and thin skin, Tommy screamed in horror. Throughouly spooked, #adjective# Tommy ran down the street and into the bright lights of his home. 
 
+Ghost and Zombie laughed as the terrified boy ran into his parents arms.
 
+"Well it looks like #adjective# Tommy can be scared after all!" Ghost said with glee.
 
+"We should have done that from the start! I guess we've learned that two heads are better than one!" Zombie responded. 
 
+With Halloween coming to an end, Ghost and Zombie left the nieghborhood awaiting the next time the can haunt the streets together again.
 
-
-
-
+The End{.text-center}
