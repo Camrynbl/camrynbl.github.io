@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: tracery
 title: The Ghost and the Zombie
-categories:
-- hands on activities
 ---
 
 ## A Tracery Grammar Short Story
